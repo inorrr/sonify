@@ -1,0 +1,5 @@
+{
+  "name": "Sonify.ai",
+  "description": "Transform your images into immersive soundscapes using Gemini Vision and generative audio synthesis.",
+  "requestFramePermissions": []
+}
